@@ -1,8 +1,9 @@
-<center>
-  ### 👋 Hi, I'm Dilshod
+### 👋 Hi, I'm Dilshod
+
+<p align="center">
 
   ### Full Stack Developer | Laravel API & React.js Engineer
-</center>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+API+Engineer;React.js+Frontend+Developer;Building+Modern+and+Scalable+Web+Apps" alt="Typing SVG" />
