@@ -1,6 +1,8 @@
+<center>
 # 👋 Hi, I'm Dilshod
 
-### Full Stack Developer | Laravel API & React.js Engineer
+  ### Full Stack Developer | Laravel API & React.js Engineer
+</center>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Laravel+API+Engineer;React.js+Frontend+Developer;Building+Modern+and+Scalable+Web+Apps" alt="Typing SVG" />
@@ -118,10 +120,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer" width="100%"/>
 </p>
 
+<!--
 
 ## Hi there 👋
 
-<!--
+
 **dilshodengineer/dilshodengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
