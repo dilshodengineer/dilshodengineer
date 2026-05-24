@@ -1,7 +1,6 @@
-### 👋 Hi, I'm Dilshod
+#### 👋 Hi, I'm Dilshod
 
-<p align="center">
-
+<p style="text-align: center;">
   ### Full Stack Developer | Laravel API & React.js Engineer
 </p>
 
@@ -90,8 +89,6 @@
 * Responsive Admin Dashboard
 
 ---
-
-# 🌐 Connect With Me
 
 # 🌐 Connect With Me
 
